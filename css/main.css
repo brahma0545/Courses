@@ -369,44 +369,25 @@ h5, h6          { font-weight: bolder }
     -o-background-size: cover;
     background-position: 40% 60%;
 }
-.bg-search{
-    background-position:50% 30% !important;
-    background: url('../img/project1.png') no-repeat;
-}
-.bg-twitter{
-    background-position:50% 20% !important;
-    background: url('../img/project2.png') no-repeat;
-}
-.bg-personality{
-    background-position:50% 30% !important;
-    background: url('../img/project3.png') no-repeat;
-}
-.bg-networks{
-    background-position:50% 20% !important;
-    background: url('../img/project4.png') no-repeat;
-}
-.bg-bike{
-    background-position:50% 12% !important;
-    background: url('../img/project5.png') no-repeat;
-}
-.bg-reg{
-    background-position:50% 12% !important;
-    background: url('../img/reg.png') no-repeat;
-}
-.bg-htmlcss{
-    background-position:10% 10% !important;
-    background: url('../img/work1.jpg') no-repeat;
+.bg-gate{
+    background-position:50% 41% !important;
+    background: url('../img/work1.png') no-repeat;
 }
 .bg-java{
-    background-position:10% 10% !important;
-    background: url('../img/work3.jpg') no-repeat;
+    background-position:50% 70% !important;
+    background: url('../img/project3.jpg') no-repeat;
 }
-.bg-javascript{
-    background-position:10% 10% !important;
-    background: url('../img/work2.jpg') no-repeat;
+.bg-interview{
+    background-position:50% 21% !important;
+    background: url('../img/work2.png') no-repeat;
 }
-.smallCourses{
-    width: 80% !important;
+.bg-git{
+    background-position:50% 18% !important;
+    background: url('../img/project1.jpg') no-repeat;
+}
+.bg-c{
+    background-position:50% 52% !important;
+    background: url('../img/project2.jpg') no-repeat;
 }
 
 .work_nav{
@@ -710,4 +691,7 @@ h5, h6          { font-weight: bolder }
         margin-left: 20%;
     }
 
+}
+.coursemenu{
+    width: 33.33333333333% !important;
 }
