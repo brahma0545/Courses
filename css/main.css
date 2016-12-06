@@ -681,8 +681,13 @@ h5, h6          { font-weight: bolder }
        width:  50% !important;
        height: 40vh !important;
    }
+   .main .course_work{
+      width: 33.33333333333333% !important;
+      height: auto !important;
+   }
 
 }
+
 /*@media (min-width: 1371px){
     section {
         margin-top: 5vh;
