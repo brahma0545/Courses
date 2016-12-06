@@ -2,52 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4829f42-e4d8-4c7f-94e8-3df53bd83ae2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/project2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/project7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/project8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/project9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/work4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Courses.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/c.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/courses.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/git.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uiangular.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uijs.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bikes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/debug.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/htmlcss.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/network.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/project1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/project2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/project3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/remaining.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/work1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/work2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/work4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/work5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/work6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/network.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/personality.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twitter.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/work3.jpg" afterPath="$PROJECT_DIR$/img/project3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/work8.jpg" afterPath="$PROJECT_DIR$/img/project1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project4.png" afterPath="$PROJECT_DIR$/img/project4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project5.png" afterPath="$PROJECT_DIR$/img/project5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project6.png" afterPath="$PROJECT_DIR$/img/project6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/courses.html" afterPath="$PROJECT_DIR$/courses.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/reset.css" afterPath="$PROJECT_DIR$/css/reset.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java.html" afterPath="$PROJECT_DIR$/java.html" />
     </list>
     <ignored path="magnetic.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="22" column="62" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
+            <state relative-caret-position="688">
+              <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -118,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="courses.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="courses.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/courses.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="79" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
+            <state relative-caret-position="338">
+              <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -141,14 +98,14 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="388" column="30" selection-start-line="388" selection-start-column="30" selection-end-line="388" selection-end-column="30" />
+            <state relative-caret-position="542">
+              <caret line="695" column="12" selection-start-line="695" selection-start-column="12" selection-end-line="695" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="java.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="java.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="575">
@@ -191,13 +148,13 @@
         <option value="$PROJECT_DIR$/bootstrap.html" />
         <option value="$PROJECT_DIR$/uiangular.html" />
         <option value="$PROJECT_DIR$/uijs.html" />
-        <option value="$PROJECT_DIR$/courses.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/interview.html" />
         <option value="$PROJECT_DIR$/git.html" />
         <option value="$PROJECT_DIR$/c.html" />
         <option value="$PROJECT_DIR$/java.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/courses.html" />
       </list>
     </option>
   </component>
@@ -365,12 +322,12 @@
       <workItem from="1480940235840" duration="2000" />
       <workItem from="1480940251905" duration="10889000" />
       <workItem from="1481013814248" duration="591000" />
-      <workItem from="1481027695809" duration="7393000" />
+      <workItem from="1481027695809" duration="7942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57555000" />
+    <option name="totallyTimeSpent" value="58104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -615,34 +572,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="79" selection-start-line="35" selection-start-column="79" selection-end-line="35" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="22" column="62" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="388" column="30" selection-start-line="388" selection-start-column="30" selection-end-line="388" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -675,6 +608,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
           <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="695" column="12" selection-start-line="695" selection-start-column="12" selection-end-line="695" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
           <folding />
         </state>
       </provider>
