@@ -288,7 +288,7 @@ h5, h6          { font-weight: bolder }
 /*  Home/portfolio  */
 .main .work{
     display: block;
-    /*width: 33.3333333333%;*/
+    width: 33.3333333333%;
     height: auto;
     float: left;
     position: relative;
@@ -720,10 +720,6 @@ h5, h6          { font-weight: bolder }
         width:60%;
         margin-left: 20%;
     }
-    .main .work{
-       width:  50% !important;
-       height: 40vh !important;
-   }
    .main .course_work{
       width: 33.33333333333333% !important;
       height: auto !important;
