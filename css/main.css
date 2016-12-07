@@ -416,8 +416,12 @@ h5, h6          { font-weight: bolder }
     background: url('../img/project7.png') no-repeat;
 }
 .bg-angular{
-    background-position:50% 39% !important;
-    background: url('../img/img5.jpg') no-repeat;
+     background-position:50% 39% !important;
+     background: url('../img/img5.jpg') no-repeat;
+ }
+.bg-fullstack{
+    background-position:50% 25% !important;
+    background: url('../img/project8.png') no-repeat;
 }
 .work_nav{
     display: block;

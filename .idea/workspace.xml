@@ -2,43 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4829f42-e4d8-4c7f-94e8-3df53bd83ae2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/structure1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/structure2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/structure3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/structure4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/structure5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angularjs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debug.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fullstack.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htmlcss.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaspring.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project1.jpg" afterPath="$PROJECT_DIR$/img/project1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project2.jpg" afterPath="$PROJECT_DIR$/img/project2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project3.jpg" afterPath="$PROJECT_DIR$/img/project3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project5.png" afterPath="$PROJECT_DIR$/img/project5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project7.png" afterPath="$PROJECT_DIR$/img/project7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project8.png" afterPath="$PROJECT_DIR$/img/project8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project9.png" afterPath="$PROJECT_DIR$/img/project9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/video-image.jpg" afterPath="$PROJECT_DIR$/img/video-image.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work1.png" afterPath="$PROJECT_DIR$/img/work1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work2.png" afterPath="$PROJECT_DIR$/img/work2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work3.png" afterPath="$PROJECT_DIR$/img/work3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work4.png" afterPath="$PROJECT_DIR$/img/work4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap.html" afterPath="$PROJECT_DIR$/bootstrap.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/c.html" afterPath="$PROJECT_DIR$/c.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/courses.html" afterPath="$PROJECT_DIR$/courses.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/git.html" afterPath="$PROJECT_DIR$/git.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java.html" afterPath="$PROJECT_DIR$/java.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript.html" afterPath="$PROJECT_DIR$/javascript.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uiangular.html" afterPath="$PROJECT_DIR$/uiangular.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uijs.html" afterPath="$PROJECT_DIR$/uijs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fullstack.html" afterPath="$PROJECT_DIR$/fullstack.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javaspring.html" afterPath="$PROJECT_DIR$/javaspring.html" />
     </list>
     <ignored path="magnetic.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,71 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="courses.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/courses.html">
+      <file leaf-file-name="javaspring.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javaspring.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="950">
-              <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="javascript.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uijs.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uijs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1025">
-              <caret line="41" column="67" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="67" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uiangular.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uiangular.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="22" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="141" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fullstack.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fullstack.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="57" column="68" selection-start-line="57" selection-start-column="68" selection-end-line="57" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="angularjs.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/angularjs.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="51" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="391" column="36" selection-start-line="391" selection-start-column="36" selection-end-line="391" selection-end-column="36" />
+            <state relative-caret-position="188">
+              <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -160,7 +66,6 @@
         <option value="$PROJECT_DIR$/interview.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/ui.html" />
-        <option value="$PROJECT_DIR$/javaspring.html" />
         <option value="$PROJECT_DIR$/spring.html" />
         <option value="$PROJECT_DIR$/java.html" />
         <option value="$PROJECT_DIR$/c.html" />
@@ -174,6 +79,7 @@
         <option value="$PROJECT_DIR$/angularjs.html" />
         <option value="$PROJECT_DIR$/fullstack.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/javaspring.html" />
       </list>
     </option>
   </component>
@@ -343,12 +249,12 @@
       <workItem from="1481013814248" duration="591000" />
       <workItem from="1481027695809" duration="13434000" />
       <workItem from="1481101316004" duration="13101000" />
-      <workItem from="1481122055815" duration="33000" />
+      <workItem from="1481122055815" duration="789000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76730000" />
+    <option name="totallyTimeSpent" value="77486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -466,13 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javaspring.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="488">
@@ -564,16 +463,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fullstack.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="57" column="68" selection-start-line="57" selection-start-column="68" selection-end-line="57" selection-end-column="68" />
+        <state relative-caret-position="362">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="391" column="36" selection-start-line="391" selection-start-column="36" selection-end-line="391" selection-end-column="36" />
+        <state relative-caret-position="450">
+          <caret line="422" column="30" selection-start-line="422" selection-start-column="30" selection-end-line="422" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaspring.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
           <folding />
         </state>
       </provider>
