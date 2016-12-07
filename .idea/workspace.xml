@@ -2,8 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4829f42-e4d8-4c7f-94e8-3df53bd83ae2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/structure1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/structure2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/structure3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/structure4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/structure5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/angularjs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debug.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fullstack.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/htmlcss.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javaspring.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project1.jpg" afterPath="$PROJECT_DIR$/img/project1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project2.jpg" afterPath="$PROJECT_DIR$/img/project2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project3.jpg" afterPath="$PROJECT_DIR$/img/project3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project5.png" afterPath="$PROJECT_DIR$/img/project5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project7.png" afterPath="$PROJECT_DIR$/img/project7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project8.png" afterPath="$PROJECT_DIR$/img/project8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/project9.png" afterPath="$PROJECT_DIR$/img/project9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/video-image.jpg" afterPath="$PROJECT_DIR$/img/video-image.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work1.png" afterPath="$PROJECT_DIR$/img/work1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work2.png" afterPath="$PROJECT_DIR$/img/work2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work3.png" afterPath="$PROJECT_DIR$/img/work3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/work4.png" afterPath="$PROJECT_DIR$/img/work4.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap.html" afterPath="$PROJECT_DIR$/bootstrap.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/c.html" afterPath="$PROJECT_DIR$/c.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/courses.html" afterPath="$PROJECT_DIR$/courses.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/git.html" afterPath="$PROJECT_DIR$/git.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java.html" afterPath="$PROJECT_DIR$/java.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript.html" afterPath="$PROJECT_DIR$/javascript.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uiangular.html" afterPath="$PROJECT_DIR$/uiangular.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uijs.html" afterPath="$PROJECT_DIR$/uijs.html" />
     </list>
     <ignored path="magnetic.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,11 +59,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="courses.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courses.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+            <state relative-caret-position="950">
+              <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -37,58 +72,48 @@
       <file leaf-file-name="javascript.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="625">
+              <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="c.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/c.html">
+      <file leaf-file-name="uijs.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uijs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            <state relative-caret-position="1025">
+              <caret line="41" column="67" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="interview.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interview.html">
+      <file leaf-file-name="uiangular.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uiangular.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+            <state relative-caret-position="550">
+              <caret line="22" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="141" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="git.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/git.html">
+      <file leaf-file-name="fullstack.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fullstack.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="287">
+              <caret line="57" column="68" selection-start-line="57" selection-start-column="68" selection-end-line="57" selection-end-column="68" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="courses.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/courses.html">
+      <file leaf-file-name="angularjs.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/angularjs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state relative-caret-position="1275">
+              <caret line="51" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -97,18 +122,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="681" column="17" selection-start-line="681" selection-start-column="17" selection-end-line="681" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="java.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+            <state relative-caret-position="50">
+              <caret line="391" column="36" selection-start-line="391" selection-start-column="36" selection-end-line="391" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -135,24 +150,29 @@
         <option value="$PROJECT_DIR$/reg.html" />
         <option value="$PROJECT_DIR$/projects2.html" />
         <option value="$PROJECT_DIR$/bikes.html" />
-        <option value="$PROJECT_DIR$/javascript.html" />
         <option value="$PROJECT_DIR$/network.html" />
         <option value="$PROJECT_DIR$/personality.html" />
         <option value="$PROJECT_DIR$/search.html" />
         <option value="$PROJECT_DIR$/twitter.html" />
-        <option value="$PROJECT_DIR$/htmlcss.html" />
         <option value="$PROJECT_DIR$/testseries.html" />
         <option value="$PROJECT_DIR$/css/reset.css" />
         <option value="$PROJECT_DIR$/gate.html" />
-        <option value="$PROJECT_DIR$/bootstrap.html" />
-        <option value="$PROJECT_DIR$/uiangular.html" />
-        <option value="$PROJECT_DIR$/uijs.html" />
         <option value="$PROJECT_DIR$/interview.html" />
-        <option value="$PROJECT_DIR$/git.html" />
-        <option value="$PROJECT_DIR$/c.html" />
-        <option value="$PROJECT_DIR$/java.html" />
-        <option value="$PROJECT_DIR$/courses.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/ui.html" />
+        <option value="$PROJECT_DIR$/javaspring.html" />
+        <option value="$PROJECT_DIR$/spring.html" />
+        <option value="$PROJECT_DIR$/java.html" />
+        <option value="$PROJECT_DIR$/c.html" />
+        <option value="$PROJECT_DIR$/htmlcss.html" />
+        <option value="$PROJECT_DIR$/bootstrap.html" />
+        <option value="$PROJECT_DIR$/courses.html" />
+        <option value="$PROJECT_DIR$/git.html" />
+        <option value="$PROJECT_DIR$/javascript.html" />
+        <option value="$PROJECT_DIR$/uijs.html" />
+        <option value="$PROJECT_DIR$/uiangular.html" />
+        <option value="$PROJECT_DIR$/angularjs.html" />
+        <option value="$PROJECT_DIR$/fullstack.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
@@ -211,7 +231,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -232,6 +251,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -321,12 +341,14 @@
       <workItem from="1480940235840" duration="2000" />
       <workItem from="1480940251905" duration="10889000" />
       <workItem from="1481013814248" duration="591000" />
-      <workItem from="1481027695809" duration="9443000" />
+      <workItem from="1481027695809" duration="13434000" />
+      <workItem from="1481101316004" duration="13101000" />
+      <workItem from="1481122055815" duration="33000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59605000" />
+    <option name="totallyTimeSpent" value="76730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -367,52 +389,11 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/projects2.html" />
-    <entry file="file://$PROJECT_DIR$/personality.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reg.html" />
-    <entry file="file://$PROJECT_DIR$/search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects2.html" />
-    <entry file="file://$PROJECT_DIR$/bikes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/bikes.html" />
     <entry file="file://$PROJECT_DIR$/contact.html" />
     <entry file="file://$PROJECT_DIR$/courses.html" />
-    <entry file="file://$PROJECT_DIR$/network.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/personality.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/network.html" />
+    <entry file="file://$PROJECT_DIR$/personality.html" />
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -422,41 +403,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contact.html" />
-    <entry file="file://$PROJECT_DIR$/twitter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/personality.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="134" selection-start-line="17" selection-start-column="134" selection-end-line="17" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="134" selection-start-line="17" selection-start-column="134" selection-end-line="17" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="134" selection-start-line="17" selection-start-column="134" selection-end-line="17" selection-end-column="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bikes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="56" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter.html" />
+    <entry file="file://$PROJECT_DIR$/personality.html" />
+    <entry file="file://$PROJECT_DIR$/network.html" />
+    <entry file="file://$PROJECT_DIR$/search.html" />
+    <entry file="file://$PROJECT_DIR$/bikes.html" />
     <entry file="file://$PROJECT_DIR$/reg.html" />
     <entry file="file://$PROJECT_DIR$/courses.html" />
     <entry file="file://$PROJECT_DIR$/license &amp; credits.txt" />
@@ -480,62 +431,17 @@
     <entry file="file://$PROJECT_DIR$/reg.html" />
     <entry file="file://$PROJECT_DIR$/debug.log" />
     <entry file="file://$PROJECT_DIR$/projects2.html" />
-    <entry file="file://$PROJECT_DIR$/bikes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/search.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twitter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="69" column="44" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htmlcss.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/network.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/personality.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/bikes.html" />
+    <entry file="file://$PROJECT_DIR$/search.html" />
+    <entry file="file://$PROJECT_DIR$/twitter.html" />
+    <entry file="file://$PROJECT_DIR$/network.html" />
+    <entry file="file://$PROJECT_DIR$/personality.html" />
     <entry file="file://$PROJECT_DIR$/img/project2.png" />
-    <entry file="file://$PROJECT_DIR$/testseries.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1825">
-          <caret line="73" column="18" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/testseries.html" />
     <entry file="file://$PROJECT_DIR$/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="84" column="25" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -543,94 +449,131 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="53" column="100" selection-start-line="53" selection-start-column="100" selection-end-line="53" selection-end-column="100" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaspring.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htmlcss.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="600">
+          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uiangular.html">
+    <entry file="file://$PROJECT_DIR$/c.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="263">
+          <caret line="212" column="18" selection-start-line="160" selection-start-column="0" selection-end-line="212" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2517">
+          <caret line="141" column="0" selection-start-line="141" selection-start-column="0" selection-end-line="141" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="39" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="139" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/uijs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="1025">
+          <caret line="41" column="67" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="67" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java.html">
+    <entry file="file://$PROJECT_DIR$/angularjs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        <state relative-caret-position="1275">
+          <caret line="51" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uiangular.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="141" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/courses.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        <state relative-caret-position="950">
+          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interview.html">
+    <entry file="file://$PROJECT_DIR$/fullstack.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/c.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="287">
+          <caret line="57" column="68" selection-start-line="57" selection-start-column="68" selection-end-line="57" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="681" column="17" selection-start-line="681" selection-start-column="17" selection-end-line="681" selection-end-column="17" />
+        <state relative-caret-position="50">
+          <caret line="391" column="36" selection-start-line="391" selection-start-column="36" selection-end-line="391" selection-end-column="36" />
           <folding />
         </state>
       </provider>
