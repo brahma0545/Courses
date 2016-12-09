@@ -423,6 +423,10 @@ h5, h6          { font-weight: bolder }
     background-position:50% 25% !important;
     background: url('../img/project8.png') no-repeat;
 }
+.bg-jsangula{
+    background-position:50% 55% !important;
+    background: url('../img/project10.jpg') no-repeat;
+}
 .work_nav{
     display: block;
     width: 100%;
