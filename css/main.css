@@ -418,10 +418,15 @@ h5, h6          { font-weight: bolder }
     background-position:50% 39% !important;
     background: url('../img/img4.jpg') no-repeat;
 }
-.bg-uijs{
-    background-position:50% 39% !important;
-    background: url('../img/project6.png') no-repeat;
+.bg-python{
+    background-position:50% 73% !important;
+    background: url('../img/img6.jpg') no-repeat;
 }
+.bg-django{
+    background-position:50% 50% !important;
+    background: url('../img/img7.jpg') no-repeat;
+}
+
 .bg-uijs{
     background-position:50% 39% !important;
     background: url('../img/project7.png') no-repeat;
